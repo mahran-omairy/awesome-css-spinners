@@ -19,22 +19,19 @@ npm install awesome-css-spinners
 
 ```
 import React, {Component} from "react";
-import {DualRingLoader} from "react-fancy-visa-card";
+import {DualRingLoader} from "awesome-css-spinners";
 
 
 class App extends Component {
 
 	render() {
         return (
-            <div className="App">
-            
+            <div className="App">            
                 <RippleLoader/>
-
             </div>
         );
     }
 }
-
 export default App;
 ```
 
@@ -50,7 +47,7 @@ export default App;
 <RippleLoader  duration="2.5s" />
 ```
 
-<h1>Availablespinners :</h1>
+<h1>Available spinners:</h1>
 <p> RippleLoader , BarsLoader , DualRingLoader , RingLoader, RollerLoader, SpinnerLoader </p>
 
 
