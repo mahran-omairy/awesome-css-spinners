@@ -1,7 +1,7 @@
 # awesome-css-spinners
 a variation of customized, smooth, lightweight and puure HTML+CSS spinners
 
-<p>this package was built based on loading.io [css spinners](https://github.com/loadingio/css-spinner/) </p>
+this package was built based on loading.io [css spinners](https://github.com/loadingio/css-spinner)
 <h2>How to install ?</h2> 
 <pre>
 npm install awesome-css-spinners
@@ -11,7 +11,7 @@ npm install awesome-css-spinners
 
 <h2>Examples:</h2>
 
-![https://imgur.com/7McQMqn](./sample/sample.png)
+![./sample/sample.png](https://imgur.com/7McQMqn)
 
 <br />
 
