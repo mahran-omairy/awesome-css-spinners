@@ -1,7 +1,7 @@
 # awesome-css-spinners
 a variation of customized, smooth, lightweight and puure HTML+CSS spinners
 
-<p>this package was built based on loading.io ![https://github.com/loadingio/css-spinner/](css spinners) </p>
+<p>this package was built based on loading.io [css spinners](https://github.com/loadingio/css-spinner/) </p>
 <h2>How to install ?</h2> 
 <pre>
 npm install awesome-css-spinners
@@ -37,18 +37,20 @@ export default App;
 
 <h1>Available options to pass :</h1>
 
-<p>loader color, default value is "black" </p>
+loader color, default value is "black"
+
 ```
 <RippleLoader color="#ff7383"/> 
 ```
 
-<p>loader animation speed, default value is "1.2s" </p>
+loader animation speed, default value is "1.2s" 
+
 ```
 <RippleLoader  duration="2.5s" />
 ```
 
 <h1>Available spinners:</h1>
-<p> RippleLoader , BarsLoader , DualRingLoader , RingLoader, RollerLoader, SpinnerLoader </p>
+RippleLoader , BarsLoader , DualRingLoader , RingLoader, RollerLoader, SpinnerLoader
 
 
 
