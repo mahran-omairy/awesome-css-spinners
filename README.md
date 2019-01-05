@@ -11,7 +11,7 @@ npm install awesome-css-spinners
 
 <h2>Examples:</h2>
 
-![./sample/sample.png](https://imgur.com/7McQMqn)
+![https://imgur.com/7McQMqn](./sample/sample.png)
 
 <br />
 
